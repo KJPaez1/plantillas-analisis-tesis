@@ -1,0 +1,5 @@
+variable,etiqueta,tipo,unidad_o_categorias,definicion,observaciones
+id,Identificador,texto,S001-S012,Identificador sintético de cada unidad,No contiene datos personales
+grupo,Grupo,categórica,control|intervencion,Grupo de asignación ilustrativo,No implica asignación aleatoria real
+edad,Edad,cuantitativa continua,años,Edad en años al momento de la medición,Datos sintéticos
+puntaje,Puntaje,cuantitativa continua,puntos,Puntaje de resultado ilustrativo,Datos sintéticos; valores generados solo como ejemplo

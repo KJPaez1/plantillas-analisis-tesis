@@ -1,0 +1,13 @@
+id,grupo,edad,puntaje
+S001,control,22,14.2
+S002,control,25,13.1
+S003,control,21,15.0
+S004,control,28,12.8
+S005,control,24,14.6
+S006,control,30,11.9
+S007,intervencion,23,16.0
+S008,intervencion,26,15.2
+S009,intervencion,22,17.1
+S010,intervencion,29,14.8
+S011,intervencion,25,16.4
+S012,intervencion,31,15.7
